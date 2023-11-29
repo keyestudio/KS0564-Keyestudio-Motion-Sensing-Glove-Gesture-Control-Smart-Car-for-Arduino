@@ -115,7 +115,7 @@ Working temperature: –10°C ~ +65°C
 
 ## **Attachment: Installation Steps**
 
-### Step1
+ Step1
 
 The kit list excludes 9V battery
 
@@ -123,7 +123,7 @@ The kit list excludes 9V battery
 
 ------
 
-### Step2
+ Step2
 
 Connect Arduino NANO mainboard to the expansion board according to the array on it. Install BT module on the expansion board as follows:
 
@@ -131,7 +131,7 @@ Connect Arduino NANO mainboard to the expansion board according to the array on 
 
 ------
 
-### Step3
+ Step3
 
   (GND--GND) (VCC--VCC) (TX--RX) (RX--TX)
 
@@ -139,7 +139,7 @@ Connect Arduino NANO mainboard to the expansion board according to the array on 
 
 ------
 
-### Step4
+ Step4
 
 Install MPU6050 module on the expansion boardas follows：
 
@@ -147,7 +147,7 @@ Install MPU6050 module on the expansion boardas follows：
 
 ------
 
-### Step5
+ Step5
 
 (GND--GND) (VCC--VCC) (SDA--SDA)(SCL--SCL)
 
@@ -155,7 +155,7 @@ Install MPU6050 module on the expansion boardas follows：
 
 ------
 
-### Step6
+ Step6
 
 Uncover the double-side adhesive foam tape behind the board and stick it to the back of one glove. Press to keep it steady.
 
@@ -163,7 +163,7 @@ Uncover the double-side adhesive foam tape behind the board and stick it to the 
 
 ------
 
-### Step7
+ Step7
 
 Installation is complete.
 
