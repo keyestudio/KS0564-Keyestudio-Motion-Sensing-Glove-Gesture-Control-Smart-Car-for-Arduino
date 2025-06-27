@@ -2498,6 +2498,8 @@ Connect Bluetooth to the device via USB-to-serial port module.
 
 Keyestudio FTDI (original chips) Basic Program: 
 
+Note: Keyestudio FTDI is not included in kits.
+
 [https://www.keyestudio.com/search/?Keyword=ks0277](https://www.keyestudio.com/search/?Keyword=ks0277)
 
 Master：
@@ -2823,17 +2825,9 @@ Operate the movement of the car by gestures.
 
 Mecanum cars: 
 
-[https://www.keyestudio.com/search/?Keyword=mecanum](https://www.keyestudio.com/search/?Keyword=mecanum)![img](./index_img/new(67).png)  
+[https://www.keyestudio.com/search/?Keyword=mecanum](https://www.keyestudio.com/search/?Keyword=mecanum)
+![img](./index_img/new(67).png)
 
-------
-
-
-
-This glove controls not only Mecanum cars but also mini tanks, smart homing cars and Beetlebot cars. 
-
-Other mini cars:
-
-[https://www.keyestudio.com/search/?&Keyword=car&Sort=4d&page=1](https://www.keyestudio.com/search/?&Keyword=car&Sort=4d&page=1)![img](./index_img/new(68).png)  
 
 ------
 
