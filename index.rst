@@ -4,12 +4,8 @@
    :caption: KS0564 Keyestudio Motion Sensing Glove Gesture Control Smart Car for Arduino
 
   
-   Arduino/1.Introduction.md
-   Arduino/2.Getting started with Arduino IDE.md
-   Arduino/3.Assembly.md
-   Arduino/4.MPU6050 Basic Information.md
-   Arduino/5.MPU6050 Attitude.md
-   Arduino/6.Bluetooth Data Transmission.md
-   Arduino/7.Gesture Detection.md
-   Arduino/8.How To Control Mecanum Robot.md
-   Arduino/9.FAQ.md
+   Arduino/1. Product introduction/Product introduction.md
+   Arduino/2. Product setup/2. Product setup.md
+   Arduino/3. Driver installation(Optional reading)/Driver installation.md
+   Arduino/4. Arduino/Arduino.md
+   Arduino/5. FAQ/5. FAQ.md
