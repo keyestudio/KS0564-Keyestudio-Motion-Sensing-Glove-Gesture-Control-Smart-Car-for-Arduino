@@ -1,12 +1,12 @@
-# 3. Arduino Tutorial
+# 4. Arduino Tutorial
 
-## 3.1 Data download
+## 4.1 Data download
 
 Arduino information contains library files and project code ,please click to download for follow-up study.
 
 Data download:[Arduino Data](./Arduino.7z)
 
-## 3.2 Software Download
+## 4.2 Software Download
 
 When we get control board, we need to download Arduino IDE and driver firstly. 
 
@@ -28,13 +28,13 @@ Mac:
 
 ![qqqq8](media/3.gif)
 
-## 3.3 Set Arduino IDE 
+## 4.3 Set Arduino IDE 
 
 Connecting the board to the computer.
 
 ![](media/4.gif)
 
-## 3.4 Add Library
+## 4.4 Add Library
 
 What are Libraries ?
 
@@ -46,7 +46,7 @@ There are hundreds of additional libraries available on the Internet for downloa
 
 ![qqqq8](media/5.gif)
 
-## 3.5 Project
+## 4.5 Project
 
 ### Project 1 MPU6050 Basic Information
 

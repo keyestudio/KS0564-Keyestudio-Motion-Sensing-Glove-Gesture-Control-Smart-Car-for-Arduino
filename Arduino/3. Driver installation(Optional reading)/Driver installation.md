@@ -1,8 +1,8 @@
 <span style="color: rgb(255, 76, 65);"> The driver is usually installed automatically when the board is connected to the computer. When the Arduino IDE can recognize the board port and upload the program, it proves that the installation has been completed automatically, so there is no need to carry out the operation of the tutorial in this section. If you can't recognize the board port and upload the program, please refer to the tutorial to install the driver manually.</span>
 
-# 4. Driver installation
+# 3. Driver installation
 
-## 4.1 Windows System
+## 3.1 Windows System
 
 **Checking the driver**
 
@@ -22,7 +22,7 @@
 
 ![qqqq](media/2.gif)
 
-## 4.2 MAC System
+## 3.2 MAC System
 
 **1 Checking the driver**
 
